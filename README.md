@@ -1,0 +1,5 @@
+# XNA_Photo_ScreenSaver
+
+A demonstration of what I was doing 9 years ago.  This project was my first attempt to teach myself C#. The compiled output can be installed on any Windows computer and is used to display a selected set of JPEG pictures. It uses the XNA library to make use of hardware accelerations allowing for the display to be smooth on any screen size as well to display different images on each screen that is attached to a given computer.  It also has a few helpful keyboard inputs that allow the user to both pause and rewind the images allowing them to see an image again or to simply look at the image longer.  On the chance that the user wants to be able make use of the image, the program also has a display of what the file name and path of the images being display is.
+
+This git project is just a repository so that the existing code can be seen by others.  At the moment I believe that it is so out of date that current IDEs cannot even load it.  I hope to find a way to modernize this code base, but at the moment the point of putting it on git is so that others can see what I was doing and give me feedback.
